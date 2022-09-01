@@ -1,0 +1,6 @@
+filename = "/home/md.irshad/pets.txt"
+content = "we love pets"
+file_permission = "700"
+prefix = "Mrs"
+separator = "."
+length = "2"
